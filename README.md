@@ -2,7 +2,7 @@
 
 更多面试内部资料，大模型实战经验请扫码加入下面的知识星球：
 
- <img src="http://image.rarelimiting.com/ef790b3b816bc0568a217ffa7e7e59f252b672b41c203a23dd304ee452d9d4ea.png" width = "300" height = "200" alt="图片名称" align=center />
+ <img src="http://image.rarelimiting.com/ef790b3b816bc0568a217ffa7e7e59f252b672b41c203a23dd304ee452d9d4ea.png" width = "300" height = "300" alt="图片名称" align=center />
 
 
 
