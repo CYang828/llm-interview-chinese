@@ -2,7 +2,8 @@
 
 更多面试内部资料，大模型实战经验请扫码加入下面的知识星球：
 
-![图 18](http://image.rarelimiting.com/ef790b3b816bc0568a217ffa7e7e59f252b672b41c203a23dd304ee452d9d4ea.png)  
+ <img src="http://image.rarelimiting.com/ef790b3b816bc0568a217ffa7e7e59f252b672b41c203a23dd304ee452d9d4ea.png" width = "300" height = "200" alt="图片名称" align=center />
+
 
 
 【如果你曾经是我的学员，请添加微信aimaksen，告知你是哪里学员，退回星球费用】
